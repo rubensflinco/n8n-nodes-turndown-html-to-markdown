@@ -6,7 +6,7 @@ import * as marked from 'marked';
 export class MdTurndown implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'MarkDown TurnDown',
-		name: 'MdTurndown',
+		name: 'mdTurndown',
 		// eslint-disable-next-line n8n-nodes-base/node-class-description-icon-not-svg
 		icon: 'file:free-markdown.png',
 		group: ['transform'],
