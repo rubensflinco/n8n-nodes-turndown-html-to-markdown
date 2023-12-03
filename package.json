@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-turndown-html-to-markdown",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Node to use in n8n that allows you to convert HTML to MarkDown using one of the most famous JS libraries that perform this conversion to Turndown | PT-BR: Nó para usar em n8n que permite converter HTML para MarkDown usando uma das bibliotecas JS mais famosas que realizam essa conversão, Turndown",
   "keywords": [
     "n8n-community-node-package"
