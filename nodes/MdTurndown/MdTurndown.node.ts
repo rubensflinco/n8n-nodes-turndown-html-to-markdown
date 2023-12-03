@@ -3,7 +3,7 @@ import { INodeExecutionData, INodeType, INodeTypeDescription, NodeOperationError
 import TurndownService from 'turndown';
 import * as marked from 'marked';
 
-export class NotionMd implements INodeType {
+export class MdTurndown implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'MarkDown TurnDown',
 		name: 'MdTurndown',
