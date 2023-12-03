@@ -1,7 +1,7 @@
 {
-  "name": "n8n-nodes-turndown-markdown",
-  "version": "0.1.0",
-  "description": "",
+  "name": "n8n-nodes-turndown-html-to-markdown",
+  "version": "1.0.0",
+  "description": "Nó para utilizar no n8n que permite conver HTML em MarkDown utilizando uma das bibliotecas JS mais famosas que fazem essa converção a Turndown",
   "keywords": [
     "n8n-community-node-package"
   ],
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rubensflinco/n8n-nodes-turndown-markdown.git"
+    "url": "https://github.com/rubensflinco/n8n-nodes-turndown-html-to-markdown.git"
   },
   "main": "index.js",
   "scripts": {
