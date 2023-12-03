@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/OoBh1ro.png" alt="Functions MarkDown TurnDown"/>
     <br/>
     <a href="https://www.npmjs.com/package/n8n-nodes-turndown-html-to-markdown"><img src="https://img.shields.io/npm/v/n8n-nodes-turndown-html-to-markdown.svg?logo=npm" alt="NPM version"/></a>
-    <a href="https://www.paypal.com/donate/?hosted_button_id=ZVM72L27GZNSE"><img src="(https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate Paypal"/></a>
+    <a href="https://www.paypal.com/donate/?hosted_button_id=ZVM72L27GZNSE"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate Paypal"/></a>
     <br/>
 </p>
 
