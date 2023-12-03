@@ -18,6 +18,8 @@ jobs:
           registry-url: https://registry.npmjs.org/
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+      - run: rm -r dist/
+      - run: rm -r package-lock.json
       - run: npm i
       - run: npm ci
       - run: npm run build
