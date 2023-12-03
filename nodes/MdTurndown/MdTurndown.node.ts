@@ -1,7 +1,7 @@
 import { IExecuteFunctions } from 'n8n-core';
 import { INodeExecutionData, INodeType, INodeTypeDescription, NodeOperationError } from 'n8n-workflow';
 import TurndownService from 'turndown';
-import * as marked from 'marked';
+import marked from 'marked';
 
 export class MdTurndown implements INodeType {
 	description: INodeTypeDescription = {
